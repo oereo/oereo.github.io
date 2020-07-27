@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "C o D i N g ... !"
 categories: [ Jekyll ]
 image: assets/images/demo1.jpg
 ---
